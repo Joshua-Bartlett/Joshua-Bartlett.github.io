@@ -6,6 +6,7 @@ header {
 
 body {
     background-color: rgb(219, 216, 216);
+    font-family: "Doppio One", sans-serif;
 }
 
 .box {
@@ -37,5 +38,13 @@ footer {
     padding: 20px;
     margin-top: auto;
     
+}
+
+nav a:hover {
+    color: red;
+}
+
+footer a:hover {
+    color: red;
 }
 
