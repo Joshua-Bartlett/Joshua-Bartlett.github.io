@@ -1,0 +1,65 @@
+@media screen and (max-width: 600px) {
+    body {
+        padding: 10px;
+    }
+}
+
+body {
+    text-align: center;
+    background-color: rgb(57, 109, 160);
+    /* White text provides contrast against the blue background. */
+    color: white;
+    max-width: 1000px;
+    margin: auto;
+}
+
+p {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+footer {
+    padding: 30px;
+}
+
+@media screen and (max-width: 600px) {
+    body {
+        padding: 10px;
+    }
+}
+
+body {
+    text-align: center;
+    background-color: rgb(57, 109, 160);
+    color: rgb(240, 238, 238);
+    max-width: 1000px;
+    margin: auto;
+}
+
+p {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+footer {
+    padding: 30px;
+}
+
+a,
+a:visited {
+    color: #f5e6b8;
+}
+
+a:hover {
+    color: #dad5d5;
+}
+
+
+h1 {
+    font-family: Georgia, serif;
+}
+
